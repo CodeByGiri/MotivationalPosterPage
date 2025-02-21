@@ -1,0 +1,104 @@
+html{
+    background-color: black;
+    color: white;
+    font-weight: 400;
+}
+
+h1{
+    color:red;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Ewert", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 6rem;
+}
+
+#meme1{
+    margin-top: 100px;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    background-color: hotpink
+}
+
+#meme2{
+    margin-top: 100px;
+    width: 50%;
+    text-align: center;
+    background-color: white
+}
+
+#meme3{
+    width: 50%;
+    margin-left: 400px;
+    text-align: center;
+    margin-left: 600px;
+    background-color: darkgreen;
+}
+
+#h11{
+    text-transform: uppercase;
+    font-family: "Caveat", serif;
+    font-size: 4rem;
+    font-weight: bold;
+    font-style: normal;
+}
+
+#h12{
+    color: blue;
+    text-transform: uppercase;
+    font-family: "Caveat", serif;
+    font-size: 4rem;
+    font-weight:bold;
+    font-style: normal;
+}
+
+#h13{
+    color: brown;
+    text-transform: uppercase;
+    font-family: "Libre Baskerville", serif;
+    font-size: 4rem;
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+#hp1{
+    font-family: "Caveat", serif;
+    font-size: 3rem;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#hp2{
+    color: aqua;
+    font-family: "Libre Baskerville", serif;
+    font-size: 3rem;
+    font-weight: 700;
+    font-style: normal;
+}
+
+#hp3{
+    color:gold;
+    font-family: "Grechen Fuemen", serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 3rem;
+}
+
+#A{
+    width: 100%;
+    border: 5px solid white ;
+}
+
+#B{
+    width: 100%;
+    border: 5px dashed red;
+}
+
+#C{
+    width: 100%;
+    border: 5px solid yellow;
+}
